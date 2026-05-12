@@ -217,6 +217,5 @@ P(답변 A가 답변 B보다 좋을 확률)= sigmoid(R(A) - R(B))
 
 ### DPO(Direct Preference Optimization): PPO의 단순한 접근
 별도의 보상모델 없이 선호도 데이터를 직접 언어모델의 Loss에 반영하여 최적화
-![[DPO.png]]
 
 <img width="643" height="56" alt="Image" src="https://github.com/user-attachments/assets/74bcb043-0c09-45f8-ada2-d525a3329154" />
