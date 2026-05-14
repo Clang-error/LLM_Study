@@ -307,3 +307,5 @@ __자동 혼합 정밀도(AMP) 표준 방식__
 
 이 요약본은
 [Stanford CS229 | Machine Learning | Building Large Language Models ](https://www.youtube.com/watch?v=9vM4p9NN0Ts)강의를 바탕으로 작성되었습니다.
+
+---
