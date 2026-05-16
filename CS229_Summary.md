@@ -1,7 +1,7 @@
 ---
 title: 대규모 언어모델 정리 (CS229)
-created: 2026-05-09
-updated: 2026-05-14
+created: 2026-05-07
+updated: 2026-05-15
 tags:
   - llm/training
   - lecture/cs229
