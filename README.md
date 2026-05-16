@@ -1,6 +1,8 @@
 
-# LLM 관련 강의, 논문, 정보 요약 공부
+# LLM 관련 강의, 논문, 정보 요약 공부분
 
 ### 1. [스탠포드 CS229, LLM강의](./CS229_Summary) 
 ### 2. [OpenAi, why_Langauage_Models_Hallucinate](./Hallucinate_Summary)(작업중)
+
+### 3. \* _ Summary가 주요 요약분, 나머지는 단어나 원리 설명 내용
 
