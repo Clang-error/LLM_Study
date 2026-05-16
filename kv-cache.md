@@ -7,7 +7,7 @@ type: note
 status: published
 ---
 
-KV cache가 정확히 뭔지 정리해두자
+KV cache가 정확히 뭔지 정리해두자 testtest
 
 추론할 때 [self-attention](self-attention.md) 계산에서 이전 토큰들의 Key/Value를 매번 다시 계산하는 건 비효율적임.
 한 번 계산한 K, V를 메모리에 저장해두고 새 토큰만 추가하는 방식.
