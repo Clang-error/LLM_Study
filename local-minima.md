@@ -12,7 +12,7 @@ source:
 
 ## 한 줄 요약
 
-손실 함수([lost-function](lost-function.md))의 최적화 과정에서, 전체 최솟값(Global Minimum)은 아니지만 주변보다는 낮은 지점에 모델이 갇히는 현상.
+손실 함수([loss-function](loss-function.md))의 최적화 과정에서, 전체 최솟값(Global Minimum)은 아니지만 주변보다는 낮은 지점에 모델이 갇히는 현상.
 
 ## 핵심 내용
 
@@ -24,12 +24,14 @@ source:
 
 ## 더 궁금한 포인트
 
-- [Saddle-Point](Saddle-Point.md)(안장점)
+- [saddle-point](saddle-point.md)(안장점)
 
 ## 관련 노트
 
-- [lost-function](lost-function.md)
-- [Saddle-Point](Saddle-Point.md)
+- [loss-function](loss-function.md)
+- [saddle-point](saddle-point.md)
+- [gradient-descent](gradient-descent.md)
+- [overfitting](overfitting.md)
 
 ## 참고
 

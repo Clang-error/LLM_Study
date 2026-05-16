@@ -38,6 +38,10 @@ Quantization은 다음과 같은 형태로 변환한다:
 
 - [perplexity](perplexity.md)
 - [kv-cache](kv-cache.md)
+- [gpu-computing](gpu-computing.md)
+- [low-precision-training](low-precision-training.md)
+- [fp32](fp32.md)
+- [int8](int8.md)
 
 ## 참고
 

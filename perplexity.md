@@ -18,12 +18,14 @@ source:
 
 ## 핵심 내용
 
-자세한 정보는 [CS229_Summary#Perplexity ( perplexity 언어모델의 대표적 평가 지표)](CS229_Summary.md)
+자세한 정보는 [CS229_Summary](CS229_Summary.md)#Perplexity 참조
 
 ## 관련 노트
 
 - [quantization](quantization.md)
 - [CS229_Summary](CS229_Summary.md)
+- [cross-entropy](cross-entropy.md)
+- [log-probability](log-probability.md)
 
 ## 참고
 
