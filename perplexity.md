@@ -5,7 +5,7 @@ updated: 2026-05-15
 tags: [llm/evaluation]
 type: note
 status: draft
-source: [[CS229_Summary]]
+source: [CS229_Summary](CS229_Summary.md)
 ---
 
 # Perplexity (언어모델 평가 지표)
@@ -16,12 +16,12 @@ source: [[CS229_Summary]]
 
 ## 핵심 내용
 
-자세한 정보는 [[CS229_Summary#Perplexity ( perplexity 언어모델의 대표적 평가 지표)]]
+자세한 정보는 [CS229_Summary#Perplexity ( perplexity 언어모델의 대표적 평가 지표)](CS229_Summary.md)
 
 ## 관련 노트
 
-- [[quantization]]
-- [[CS229_Summary]]
+- [quantization](quantization.md)
+- [CS229_Summary](CS229_Summary.md)
 
 ## 참고
 
