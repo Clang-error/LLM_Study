@@ -1,8 +1,3 @@
-*
-!README.md 
-!Hallucinate_Summary.md
-!CS229_Summary.md
-!kv-cache.md
-!perplexity.md
-!Stanford_LLM_building_sub.txt
-!.gitignore 
+.claude
+.DS_Store
+
