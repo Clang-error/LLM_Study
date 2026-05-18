@@ -28,7 +28,7 @@ source:
 
 **1. 선형 변환으로 Q, K, V 생성** 입력 토큰 벡터 X에 학습된 가중치 행렬(Wq, Wk, Wv)을 곱해 세 가지 벡터를 만듭니다.
 
-**2. Scaled Dot-Product로 점수 계산** Query와 모든 Key를 내적한 후 `√d_k`로 나눕니다. `√d_k`로 나누는 이유는 차원이 커질수록 dot product 값이 폭발적으로 커지기 때문에 [gradient](gradient.md)를 안정시키기 위함입니다.
+**2. [Scaled Dot-Product](Scaled Dot-Product.md)로 점수 계산** Query와 모든 Key를 내적한 후 `√d_k`로 나눕니다. `√d_k`로 나누는 이유는 차원이 커질수록 dot product 값이 폭발적으로 커지기 때문에 [gradient](gradient.md)를 안정시키기 위함입니다.
 
 **3. [softmax](softmax.md) → Attention 가중치** 점수를 softmax에 통과시켜 합이 1인 확률 분포로 변환합니다. 이 값이 "어느 토큰을 얼마나 참고할지"를 결정합니다.
 
